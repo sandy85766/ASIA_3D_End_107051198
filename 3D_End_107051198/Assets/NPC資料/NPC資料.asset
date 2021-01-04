@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b0fbb7a695865e40ae179e8db9820f0, type: 3}
   m_Name: "NPC\u8CC7\u6599"
   m_EditorClassIdentifier: 
-  dialogA: "\u683C\u745E!\u55E8!\u683C\u745E!\u55E8!"
-  dialogB: 
-  dialogC: 
+  dialogA: "\u55E8!\u683C\u745E!\n\u6211\u60F3\u5E6B\u59D0\u59D0\u505A\u4E00\u500B\u82B1\u5708\uFF0C\u53EF\u4EE5\u5E6B\u6211\u627E10\u6735\u82B1\u55CE?"
+  dialogB: "\u55EF...\u683C\u745E\uFF0C\u597D\u50CF\u9084\u6C92\u6709\u62FF\u523010\u6735\u8036...."
+  dialogC: "\u54C7\u90FD\u62FF\u5230\u5566!\u8B1D\u8B1D\u683C\u745E!"
   count: 10
   countCurrent: 0
